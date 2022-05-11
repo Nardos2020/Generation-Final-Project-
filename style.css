@@ -34,12 +34,10 @@ margin-right: 4rem;
     margin-bottom: 0.5rem;
 }
 .copy-right h4 {
-
     color: rgb(0, 0, 0);
     justify-content: center;}
-=======
-.navbar {
-    background: red;
-
+    background-color: black;
+    color: #fff;
+    justify-content: center;
 }
 
