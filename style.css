@@ -71,3 +71,12 @@ margin-right: 4rem;
     background-color: rgb(39, 146, 154);
     color: white;
 }
+.tab-content{
+    margin-top: 200px;
+}
+.tab-pane {
+    margin-bottom: 200px;
+}
+#login-form {
+    margin-top: 200px;
+}
