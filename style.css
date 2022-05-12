@@ -72,3 +72,21 @@ margin-right: 4rem;
     background-color: rgb(39, 146, 154);
     color: white;
 }
+.tab-content{
+    margin-top: 200px;
+}
+.tab-pane {
+    margin-bottom: 200px;
+}
+.row {
+    margin-top: 200px;
+  }
+  
+.btn-login {
+    font-size: 0.9rem;
+    letter-spacing: 0.05rem;
+    padding: 0.75rem 1rem;
+  }
+#login-btn {
+    background-color: rgb(39, 146, 154);
+}
