@@ -48,14 +48,15 @@ margin-right: 4rem;
     overflow: hidden;
     top: 0;
     width: 100%;
-    z-index: 1;
+    z-index: 5;
 }
 #nav-second {
     background-color: rgb(12, 96, 102);
     position: fixed;
     overflow: hidden;
     top: 30px;
-    width: 100%
+    width: 100%;
+    z-index: 4;
 }
 .navbar-toggler {
     background-color: rgb(39, 146, 154)
@@ -77,6 +78,15 @@ margin-right: 4rem;
 .tab-pane {
     margin-bottom: 200px;
 }
-#login-form {
+.row {
     margin-top: 200px;
+  }
+  
+.btn-login {
+    font-size: 0.9rem;
+    letter-spacing: 0.05rem;
+    padding: 0.75rem 1rem;
+  }
+#login-btn {
+    background-color: rgb(39, 146, 154);
 }
