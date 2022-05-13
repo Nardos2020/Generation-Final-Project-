@@ -78,8 +78,8 @@ margin-right: 4rem;
 .tab-pane {
     margin-bottom: 200px;
 }
-.row {
-    margin-top: 200px;
+#login-row {
+    margin: 200px;
   }
   
 .btn-login {
