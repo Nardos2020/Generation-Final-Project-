@@ -90,3 +90,9 @@ margin-right: 4rem;
 #login-btn, #register-btn {
     background-color: rgb(39, 146, 154);
 }
+#products {
+    justify-content: center;
+    margin-top: 200px;
+}
+
+
