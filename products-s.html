@@ -59,7 +59,7 @@
         </div>
         <div class="col-sm-6">
             <h3>
-              <span class="border border-1">Enter Product Name</span>
+              <h5 class="border col-sm-4 col-md-5">Enter Product Name</h3>
             </h3>
             <div class="btn-group">
                 <button type="button" class="btn btn-sm dropdown-toggle" data-bs-toggle="dropdown" aria-expanded="false">
@@ -80,9 +80,31 @@
                   </ul>
             </div>
             <hr>
+            <div class="row py-1" style="margin-left: 3px;">
+              <div class="col-1  border">$300</div>
+              <div class="col-10">Enter Price</div>
+            </div>
+            <br>
+            <div class="form-group">
+              <label for="formControlTextarea margin-top: 3px">Enter Product Description</label>
+              <textarea class="form-control rounded-0" id="formControlTextarea" rows="3">Product description</textarea>
+            </div>
+            <br>
+            <select class="form-select col-6" style="margin-right:unset;"> 
+              <option selected>Assign Product Code</option>
+              <option value="1">P0001</option>
+              <option value="2">P0002</option>
+              <option value="3">P0003</option>
+            </select>
+
+
+            <div class="col-lg-6 pt-3"><button id="button-one" class="btn text-end " type="submit">Add to Products</button></div>
+        
+          </div>
         </div>
     </div>
-     </div>
+    </div>       
+        
      <br><br>
      <div class="container-fluid" id="product-table">
         <h3 class="table-header mx-3"> Product list</h3>

@@ -94,4 +94,12 @@ margin-right: 4rem;
     margin-top: 200px;
 }
 
+.form-select {
+    width: 280px;
+}
+span {
+    border-right-width: 28px;
+}
+
+
 
