@@ -90,16 +90,8 @@ margin-right: 4rem;
 #login-btn, #register-btn, .btn-group {
     background-color: rgb(39, 146, 154);
 }
-#products-page {
-    margin-top: 200px;
-}
 
-.form-select {
-    width: 280px;
+#inlineRadio2 {
+    margin-left: 8px;
 }
-span {
-    border-right-width: 28px;
-}
-
-
 
